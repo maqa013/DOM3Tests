@@ -42,7 +42,7 @@ block.removeChild(p , elementI)
 
 // 5)
 //выведите в консоли коллекцию всех элементов с классом .block
-console.log(document.querySelectorAll('.div'))
+console.log(document.querySelectorAll('.block'))
 // 6)
 //выведите в консоли первый элемент из ранее созданной коллекции
 console.log(block[0])
